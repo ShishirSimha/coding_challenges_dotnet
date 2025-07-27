@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "nYxkj2gGq8ab9NQ6L5KP6w3qV6+Yv3LvnAAGGO52ZH+JevSz8RMjGY6a+pCIF37Kq5zpKaaqG2Gg6KLZnmh/0w==",
+  "dgSpecHash": "r35KFeri+u2XJtx+Hx70lafHGVbNMUpENQAwXHhKXDdgq+t9uOLHRBHAIsb5xnpifPVvhqlkudRaX+gTXPn1Rw==",
   "success": true,
   "projectFilePath": "D:\\Project\\Coding_Challenges\\coding_challenges_dotnet\\WCCommandLineApp\\WCCommandLineApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\simba\\.nuget\\packages\\microsoft.csharp\\4.4.1\\microsoft.csharp.4.4.1.nupkg.sha512",
+    "C:\\Users\\simba\\.nuget\\packages\\system.commandline\\2.0.0-beta1.21308.1\\system.commandline.2.0.0-beta1.21308.1.nupkg.sha512",
+    "C:\\Users\\simba\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
   "logs": []
 }
